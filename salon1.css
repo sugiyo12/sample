@@ -8,7 +8,7 @@ body{
 }
 
 header{
-    background-image:url("../salon/24.jpg");
+    background-image:url("24.jpg");
     height: 120px;
     width:100%;
     position: fixed;
@@ -49,27 +49,27 @@ header{
 }
 
 .aisatu{
-    background-image: url("../salon/24.jpg");
+    background-image: url("24.jpg");
     width:20%;
 }
 
 .plan{
-    background-image: url("../salon/24.jpg");
+    background-image: url("24.jpg");
     width:20%;
 }
 
 .can{
-    background-image: url("../salon/24.jpg");
+    background-image: url("24.jpg");
     width:20%;
 }
 
 .ques{
-    background-image: url("../salon/24.jpg");
+    background-image: url("24.jpg");
     width:20%;
 }
 
 .map{
-    background-image: url("../salon/24.jpg");
+    background-image: url("24.jpg");
     width:20%;
 }
 
@@ -114,7 +114,7 @@ textarea{
 }
 
 footer{
-    background-image:url("24.jpg");
+    background-image:url("21.jpg");
     background-size:cover;
     opacity: 0.5;
     height:600px;
