@@ -1,6 +1,6 @@
 @media(max-width:1050px){
      header{
-        padding-bottom:50px;
+        padding-bottom:40px;
     }
     
     .header-left{
@@ -13,6 +13,10 @@
         margin-right:40px;
         margin-top:30px;
     }
+     
+     .main-design img{
+          margin-top:40px;
+     }
     
     footer p{
         margin-bottom:40px;
