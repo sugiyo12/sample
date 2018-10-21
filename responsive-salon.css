@@ -7,9 +7,7 @@
         padding:0 15px 0 0;
     }
     
-    footer{
-        height:650px;
-    }
+    
 }
 
 
@@ -22,9 +20,8 @@
         padding:0 10px 0 0;
     }
     
-    footer p{
-        margin-bottom:5px;
-        
+    footer{
+        padding-bottom:10px;
     }
 }
 
