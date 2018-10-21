@@ -13,18 +13,15 @@
 
 @media(max-width:670px){
     header{
-        height:110%;
+        padding-bottom:20px;
     
     .header-left{
-        padding:0 0 0 10x;
+        padding-left:15px;
     }
     
     .header-right{
         padding:0 10px 0 0;
     }
-    
-    footer p{
-        padding-bottom:10px;
-    }
+   
 }
 
