@@ -1,0 +1,29 @@
+@media(max-width:1000px){
+    .headder-left{
+        padding:0 0 0 10px;
+    }
+    
+    .header-right{
+        padding:0 10px 0 0;
+    }
+    
+    footer{
+        height:650px;
+    }
+}
+
+
+@media(max-width:670px){
+    .headder-left{
+        padding:0 0 0 5px;
+    }
+    
+    .header-right{
+        padding:0 5px 0 0;
+    }
+    
+    footer{
+        height:650px;
+    }
+}
+
