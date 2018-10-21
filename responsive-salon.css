@@ -23,6 +23,7 @@
     }
     
     footer{
+        height:none;
         padding-bottom:10px;
     }
 }
