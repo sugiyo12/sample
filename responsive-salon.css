@@ -32,13 +32,11 @@
     }
     
     .header-left{
-        padding:none;
-        margin-left:40px;
+        padding:0 0 0 30px;
     }
     
     .header-right{
-        margin-top:30px;
-        margin-right:40px;
+        padding30px 20px 0 0;
     }
 
      footer h1{
@@ -47,7 +45,7 @@
      
      footer{
           padding-bottom:50px;
-          background-size:contain;
+          width:1000px;
      }
 }
 
