@@ -27,7 +27,7 @@
 
 @media(max-width:670px){
     header{
-        padding-bottom:30px;
+        padding-bottom:100px;
     }
     
     .header-left{
@@ -40,13 +40,12 @@
         margin-top:30px;
         margin-right:40px;
     }
-     
-     .main-design img{
-          margin-top:30px;
-     }
           
      footer h1{
          padding-left:45px;
     }
+     
+     footer{
+          padding-bottom:50px;
 }
 
