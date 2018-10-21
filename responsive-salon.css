@@ -1,4 +1,8 @@
 @media(max-width:1050px){
+     header{
+        padding-bottom:50px;
+    }
+    
     .header-left{
         padding:0 0 0 15px;
     }
@@ -7,6 +11,9 @@
         padding:0 15px 0 0;
     }
     
+    footer{
+        padding-bottom:50px;
+    }
     
 }
 
@@ -29,5 +36,9 @@
      footer{
          padding-bottom:50px;
          width:100%;
+    }
+     footer h1{
+         padding-left:30px;
+    }
 }
 
