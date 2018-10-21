@@ -13,12 +13,12 @@
 
 @media(max-width:670px){
     header{
-        padding-bottom:30px;
+        padding-bottom:100px;
     }
     
     .header-left{
         padding:none;
-        padding-left:20px;
+        margin-left:70px;
     }
     
     .header-right{
