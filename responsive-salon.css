@@ -24,13 +24,12 @@
     }
     
     .header-left{
-        padding:none;
         margin-left:40px;
     }
     
     .header-right{
-         
-        margin-right:40px
+        margin-top:30px;
+        margin-right:40px;
     }
    
      footer{
